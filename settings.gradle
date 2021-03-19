@@ -1,0 +1,2 @@
+rootProject.name='ioia-pengantar'
+include ':app'
